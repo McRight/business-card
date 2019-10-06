@@ -1,0 +1,9 @@
+.menu-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.menu-list li a {
+  text-decoration: none;
+}
